@@ -33,6 +33,7 @@ nav ul li a{
     color: #fff;
     padding: 10px;
     text-transform: uppercase;
+    text-decoration: none;
 }
 nav ul li a:hover, a.active{
     background-color: #3352F2;
